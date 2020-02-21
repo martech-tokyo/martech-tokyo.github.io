@@ -1,0 +1,37 @@
+title: "TOKYO MARTECH BLOG"
+description: MarTechのトレンドや要素技術、各種サービスについて取り上げて紹介していきます。
+remote_theme: martech-tokyo/mediumish-theme-jekyll
+show_downloads: false
+host: 0.0.0.0
+repository: martech-tokyo/blog
+google_analytics: UA-49248522-3
+encoding: utf-8
+# Exclude these files from your production _site
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+  - github-pages
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
+permalink: /entry/:year/:month/:day/:title
+adsense: "disabled"
+adsense-data-ad-client: "ca-pub-6370643787079813"
+adsense-data-ad-slot: ""
+lazyimages: "enabled"
+logo: assets/images/logo.png
+theme_site: false
+paginate: 12
+jekyll-archives:
+  enabled:
+    - categories
+    - year
+    - month
+  layout: archive
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    category: '/archive/category/:name/'
