@@ -20,7 +20,7 @@ comments: false
 以前に「プラットフォーム」について取り上げましたが、
 ふるさと納税の「返礼品市場」は、消費者に対する見本市としての色の濃い、通販候補商品の「プラットフォーム」と言えるでしょう。
 
-[https://ja.martech.tokyo/entry/2018/11/30/marketing-strategy-in-platform-revolution-era:embed:cite]
+[https://martech-tokyo.github.io/blog/entry/2018/11/30/marketing-strategy-in-platform-revolution-era:embed:cite]
 
 しかし、ふるさと納税の返礼品市場はレッドオーシャンになりつつあり、全ての事業者が成功しているわけではありません。
 この市場を事業者がどういった活用の仕方をするのが望ましいかについて見ていきたいと思います。

@@ -47,7 +47,7 @@ comments: false
 
 先日も触れた通り、「[Mautic](https://github.com/mautic/mautic)」ではユーザー識別に「FingerPrint2」を使用してのデジタル・フィンガープリントも実施しています。
 
-[http://ja.martech.tokyo/entry/2018/05/19/browser-finger-print-now-from-fingerprint2:embed:cite]
+[http://martech-tokyo.github.io/blog/entry/2018/05/19/browser-finger-print-now-from-fingerprint2:embed:cite]
 
 ``onBuildJs`` 関数で真っ先に（Hackしたバージョンの）Fingerprint2を記載しており、これが「Mautic」導入において貼り付けられたタグ内で発火します。
 
@@ -59,4 +59,4 @@ comments: false
 
 ## 続きの記事はこちら
 
-[http://ja.martech.tokyo/entry/2018/06/06/mautic-marketing-automation-tagging-logic-2:embed:cite]
+[http://martech-tokyo.github.io/blog/entry/2018/06/06/mautic-marketing-automation-tagging-logic-2:embed:cite]
