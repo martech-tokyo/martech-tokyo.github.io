@@ -58,7 +58,7 @@ comments: false
 確かにAIDMA・AISASなどのよく知られた顧客行動モデルを使うことには、思考が整理される効果もありますし、安心感もあります。
 しかし過去記事でも触れた通り、マーケティングファネルの考え方は今日のマーケティングにおいて時代遅れになりつつあります。
 
-[http://martech-tokyo.github.io/blog/entry/2018/05/13/3-contexts-that-obsoletes-marketing-funnel:embed]
+[http://martech-tokyo.github.io/entry/2018/05/13/3-contexts-that-obsoletes-marketing-funnel:embed]
 
 マス・マーケティングの時代ならいざ知らず、今日においてカスタマージャーニーマップを顧客行動モデルに基づいて作成してしまうと、汎用的過ぎて実際には起こり得ない、「絵に描いた餅」になりがちです。
 顧客行動モデルに依拠する誘惑に乗らず、具体的に事例として存在しそうなカスタマージャーニーマップを作成する必要があります。

@@ -154,4 +154,4 @@ new Fingerprint2(options).get(function(result,components) {
 
 ## 続きの記事はこちら
 
-[http://martech-tokyo.github.io/blog/entry/2018/07/07/browser-finger-print-now-from-fingerprint2-2:embed]
+[http://martech-tokyo.github.io/entry/2018/07/07/browser-finger-print-now-from-fingerprint2-2:embed]

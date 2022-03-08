@@ -27,7 +27,7 @@ GAFAをはじめ、欧米の巨大Martech企業へのバイアウト事例も多
 
 - [Leadspace](https://www.leadspace.com)
 
-2007年に創業。BtoB向けの顧客マネジメントサービスを提供。以前にも紹介した[インテントデータ](https://martech-tokyo.github.io/blog/entry/2018/05/06/ouibounce-to-exit-intent-technology)を元にサイトを訪問した潜在顧客とその潜在顧客が所属している会社の情報を統合し、SalesForceをはじめとするSFA（営業支援システム）に連携させる。 [^2]
+2007年に創業。BtoB向けの顧客マネジメントサービスを提供。以前にも紹介した[インテントデータ](https://martech-tokyo.github.io/entry/2018/05/06/ouibounce-to-exit-intent-technology)を元にサイトを訪問した潜在顧客とその潜在顧客が所属している会社の情報を統合し、SalesForceをはじめとするSFA（営業支援システム）に連携させる。 [^2]
 
 [^4]: [サイトを訪問する潜在顧客のプロフィールを“丸裸”に- LeadspaceのBtoB顧客マネジメントサービス](https://tech.nikkeibp.co.jp/it/atclact/active/16/112200130/042600005/)
 

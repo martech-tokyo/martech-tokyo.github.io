@@ -57,7 +57,7 @@ comments: false
 ### 3. 2018年、5000億ドル規模のソフトウェア市場の31%をサブスクリプション型が占めると予想
 
 少し古い情報ですが、ソフトウェア業界では拡大していると納得しうる調査が提供されていました。
-IDCによる調査において、[2018年、5000億ドル規模のソフトウェア市場の31%をサブスクリプション型が占める](https://www.bloomberg.com/professional/blog/software-moves-toward-subscription-model/)と予想しています。
+IDCによる調査において、[2018年、5000億ドル規模のソフトウェア市場の31%をサブスクリプション型が占める](https://www.bloomberg.com/professional/software-moves-toward-subscription-model/)と予想しています。
 
 ![More Software Sold as Subscriptions](https://data.bloomberglp.com/professional/sites/10/imported/professional/sites/4/2014/11/Software-Sold.jpg)
 
